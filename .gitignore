@@ -6,7 +6,6 @@ __pycache__/
 venv/
 env/
 
-*.exe
 *.dll
 *.log
 
